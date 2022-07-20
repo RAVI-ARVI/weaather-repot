@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weaather-repot/static/css/main.ad7a34fc.chunk.css",
+    "main.js": "/weaather-repot/static/js/main.36f16e8a.chunk.js",
+    "main.js.map": "/weaather-repot/static/js/main.36f16e8a.chunk.js.map",
+    "runtime-main.js": "/weaather-repot/static/js/runtime-main.ce4eb3db.js",
+    "runtime-main.js.map": "/weaather-repot/static/js/runtime-main.ce4eb3db.js.map",
+    "static/js/2.6fc8ad99.chunk.js": "/weaather-repot/static/js/2.6fc8ad99.chunk.js",
+    "static/js/2.6fc8ad99.chunk.js.map": "/weaather-repot/static/js/2.6fc8ad99.chunk.js.map",
+    "index.html": "/weaather-repot/index.html",
+    "precache-manifest.b4f5c16b0bf493aef9ae7c845260fd01.js": "/weaather-repot/precache-manifest.b4f5c16b0bf493aef9ae7c845260fd01.js",
+    "service-worker.js": "/weaather-repot/service-worker.js",
+    "static/css/main.ad7a34fc.chunk.css.map": "/weaather-repot/static/css/main.ad7a34fc.chunk.css.map",
+    "static/js/2.6fc8ad99.chunk.js.LICENSE": "/weaather-repot/static/js/2.6fc8ad99.chunk.js.LICENSE",
+    "static/media/index.css": "/weaather-repot/static/media/warm-bg.635ed87d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce4eb3db.js",
+    "static/js/2.6fc8ad99.chunk.js",
+    "static/css/main.ad7a34fc.chunk.css",
+    "static/js/main.36f16e8a.chunk.js"
+  ]
+}
